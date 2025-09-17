@@ -11132,8 +11132,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.svg"
         }
-      ],
-      "coingecko_id": "mantadao"
+      ]
     },
     {
       "denom_units": [
@@ -12276,8 +12275,7 @@
           },
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg"
         }
-      ],
-      "coingecko_id": "unstake-fi"
+      ]
     },
     {
       "description": "ohhNFT LP token.",
@@ -15791,7 +15789,6 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/furya/images/fury.svg"
         }
       ],
-      "coingecko_id": "fanfury",
       "keywords": [
         "gaming",
         "staking"
@@ -27696,7 +27693,9 @@
         {
           "denom": "ibc/32C4AEE2B3C4F767A351FA821AB0140B10CB690CDED27D9FCC857859B44432B9",
           "exponent": 0,
-          "aliases": ["ulume"]
+          "aliases": [
+            "ulume"
+          ]
         },
         {
           "denom": "lume",

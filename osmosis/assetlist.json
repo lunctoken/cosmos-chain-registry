@@ -27696,7 +27696,9 @@
         {
           "denom": "ibc/32C4AEE2B3C4F767A351FA821AB0140B10CB690CDED27D9FCC857859B44432B9",
           "exponent": 0,
-          "aliases": ["ulume"]
+          "aliases": [
+            "ulume"
+          ]
         },
         {
           "denom": "lume",
